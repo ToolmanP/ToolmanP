@@ -1,16 +1,30 @@
-### Hi there 👋
+### What's up there 👋
 
-<!--
-**ToolmanP/ToolmanP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+📜 My name is ToolmanP who currently is a dumb and naive undergraduate student @SJTU scheduled to graduate sometime in 2025.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌏 My working languages are 中文 🇨🇳 and English 🇬🇧 . But I do consider expanding it (🇯🇵/🇫🇷/🇩🇪) sometime in the future.
+
+💻 I'm current learning all sorts of system designs, low-level programming and binary hacking. (Maybe database or pwn later?)
+
+🤖 I'm intrigued in niche behind-the-scene stuff and pretty poorly on graphics design.
+
+❤️  I appreciate all kinds of job/internship offers and here's my CV (last updated 10/26/2023).
+
+📱 I'm not a frequent social-network diver so no outbound links. Consider contacting me via ToolmanP@outlook.com. 😉
+
+### Use(ful/less) Stats.
+
+![Top-langs]("https://github-readme-stats.vercel.app/api/top-langs/?username=toolmanp&layout=donut&theme=dracula")
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### IN CASE you are coming from that STAY_ALIVE Repo.
+
+[![Eri](https://64.media.tumblr.com/038ad9a39685a8f76f24ed7bf27ad5e7/065ef12110ff5635-fd/s500x750/71c5a812d1691c6132f7b367b0c7963709cba054.png)](https://faq.whatsapp.com/1417269125743673/?helpref=uf_share)
+
+**P.S. Please PLEASE Subscribe Inabakumori! He's awesome.**
+
+[![Lost Umbrella](https://i.ytimg.com/vi/DeKLpgzh-qQ/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLCRyV1Pb5iLdDHfS8RAMCWjeIMPyA)](https://www.youtube.com/watch?v=DeKLpgzh-qQ)
