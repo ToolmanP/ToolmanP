@@ -19,6 +19,15 @@
 ![Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toolmanp&layout=donut&theme=dracula)
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown         1 hr 1 min      ██████████████▒░░░░░░░░░░   56.81 %
+gitrebase        19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.42 %
+Python           14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
+C                5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+C++              3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+```
+
 <!--END_SECTION:waka-->
 
 ### IN CASE you are coming from that STAY_ALIVE Repo.
