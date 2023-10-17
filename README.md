@@ -21,6 +21,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 09 October 2023 - To: 16 October 2023
+
+Total Time: 1 hr 47 mins
+
 Markdown         1 hr 1 min      ██████████████▒░░░░░░░░░░   56.81 %
 gitrebase        19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.42 %
 Python           14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
