@@ -16,7 +16,7 @@
 
 ### Use(ful/less) Stats.
 
-![Top-langs]("https://github-readme-stats.vercel.app/api/top-langs/?username=toolmanp&layout=donut&theme=dracula")
+![Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toolmanp&layout=donut&theme=dracula)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
