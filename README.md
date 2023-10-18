@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2023 - To: 16 October 2023
+From: 10 October 2023 - To: 17 October 2023
 
-Total Time: 1 hr 47 mins
+Total Time: 4 hrs 21 mins
 
-Markdown         1 hr 1 min      ██████████████▒░░░░░░░░░░   56.81 %
-gitrebase        19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.42 %
-Python           14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
-C                5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-C++              3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Markdown         1 hr 30 mins    ████████▓░░░░░░░░░░░░░░░░   34.80 %
+Rust             1 hr 15 mins    ███████▒░░░░░░░░░░░░░░░░░   28.79 %
+gitrebase        20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+Python           14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+YAML             13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
 ```
 
 <!--END_SECTION:waka-->
