@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2023 - To: 21 October 2023
+From: 15 October 2023 - To: 22 October 2023
 
-Total Time: 24 hrs 11 mins
+Total Time: 25 hrs 23 mins
 
-C++              11 hrs 53 mins  ████████████▒░░░░░░░░░░░░   49.15 %
-Rust             4 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
-Markdown         1 hr 37 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
-Makefile         45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-Python           45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+C++              11 hrs 53 mins  ███████████▓░░░░░░░░░░░░░   46.85 %
+Rust             4 hrs 26 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.48 %
+ActionScript 3   1 hr 52 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+Markdown         1 hr 37 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+Makefile         45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
 ```
 
 <!--END_SECTION:waka-->
