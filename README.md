@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 October 2023 - To: 25 October 2023
+From: 20 October 2023 - To: 27 October 2023
 
-Total Time: 16 hrs 11 mins
+Total Time: 2 hrs 53 mins
 
-C++              10 hrs 58 mins  █████████████████░░░░░░░░   67.51 %
-ActionScript 3   1 hr 49 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
-Ezhil            32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-Python           30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-typst            25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+ActionScript 3   1 hr 13 mins    ██████████▒░░░░░░░░░░░░░░   41.41 %
+typst            25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
+sh               23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
+TypeScript       21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
+C++              19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
 ```
 
 <!--END_SECTION:waka-->
