@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 October 2023 - To: 27 October 2023
+From: 21 October 2023 - To: 28 October 2023
 
-Total Time: 2 hrs 53 mins
+Total Time: 2 hrs 13 mins
 
-ActionScript 3   1 hr 13 mins    ██████████▒░░░░░░░░░░░░░░   41.41 %
-typst            25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
-sh               23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
-TypeScript       21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
-C++              19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
+ActionScript 3   1 hr 13 mins    █████████████▒░░░░░░░░░░░   53.31 %
+typst            25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.22 %
+sh               23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
+C++              5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+CMake            5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
 ```
 
 <!--END_SECTION:waka-->
