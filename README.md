@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 November 2023 - To: 13 November 2023
+From: 07 November 2023 - To: 14 November 2023
 
-Total Time: 29 hrs 30 mins
+Total Time: 20 hrs 53 mins
 
-C++           12 hrs 25 mins  ██████████▒░░░░░░░░░░░░░░   41.32 %
-TeX           4 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
-Rust          4 hrs           ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
-Python        2 hrs 16 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-C             1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+C++           7 hrs 48 mins   █████████░░░░░░░░░░░░░░░░   36.46 %
+Rust          4 hrs           ████▓░░░░░░░░░░░░░░░░░░░░   18.71 %
+Python        2 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
+TeX           2 hrs 4 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
+Yacc          55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
 ```
 
 <!--END_SECTION:waka-->
