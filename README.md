@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 November 2023 - To: 19 November 2023
+From: 13 November 2023 - To: 20 November 2023
 
-Total Time: 25 hrs 30 mins
+Total Time: 33 hrs 16 mins
 
-Python        14 hrs 20 mins  ██████████████░░░░░░░░░░░   56.20 %
-Rust          5 hrs 35 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
-Assembly      1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-TypeScript    1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-YAML          28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Python        15 hrs 23 mins  ███████████▓░░░░░░░░░░░░░   46.27 %
+C++           6 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   19.83 %
+Rust          5 hrs 35 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.79 %
+Assembly      1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+TypeScript    1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
 ```
 
 <!--END_SECTION:waka-->
