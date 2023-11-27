@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2023 - To: 25 November 2023
+From: 19 November 2023 - To: 26 November 2023
 
-Total Time: 41 hrs 40 mins
+Total Time: 41 hrs 47 mins
 
-C++           18 hrs 6 mins   ███████████░░░░░░░░░░░░░░   43.42 %
-Python        15 hrs 14 mins  █████████░░░░░░░░░░░░░░░░   36.55 %
-Rust          2 hrs 56 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+C++           19 hrs 32 mins  ███████████▓░░░░░░░░░░░░░   46.73 %
+Python        13 hrs 26 mins  ████████░░░░░░░░░░░░░░░░░   32.17 %
+Rust          2 hrs 56 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
 ld            1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-TOML          45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+TOML          56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
 ```
 
 <!--END_SECTION:waka-->
