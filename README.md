@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2023 - To: 08 December 2023
+From: 02 December 2023 - To: 09 December 2023
 
-Total Time: 40 hrs 30 mins
+Total Time: 43 hrs 9 mins
 
-C                          17 hrs 53 mins  ███████████░░░░░░░░░░░░░░   44.01 %
-Objective-C                12 hrs 14 mins  ███████▓░░░░░░░░░░░░░░░░░   30.12 %
-C++                        5 hrs 52 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
-YAML                       1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-Docker                     37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+C                          17 hrs 29 mins  ██████████░░░░░░░░░░░░░░░   40.41 %
+Objective-C                12 hrs 12 mins  ███████░░░░░░░░░░░░░░░░░░   28.19 %
+C++                        8 hrs 29 mins   █████░░░░░░░░░░░░░░░░░░░░   19.62 %
+YAML                       1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Docker                     37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
