@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2023 - To: 28 December 2023
+From: 22 December 2023 - To: 29 December 2023
 
-Total Time: 19 hrs 18 mins
+Total Time: 15 hrs 30 mins
 
-C++            15 hrs 7 mins   ███████████████████░░░░░░   76.01 %
-Assembly       1 hr 38 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
-C              1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-Other          36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-typst          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+C++            12 hrs 29 mins  ███████████████████▓░░░░░   78.90 %
+Assembly       1 hr 23 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+C              57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+Other          19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Bash           19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
