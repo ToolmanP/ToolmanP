@@ -21,15 +21,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2023 - To: 02 January 2024
+From: 27 December 2023 - To: 03 January 2024
 
-Total Time: 4 hrs 42 mins
+Total Time: 2 hrs 55 mins
 
-C++            3 hrs 18 mins   ████████████████▓░░░░░░░░   66.94 %
-Assembly       53 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.08 %
-C              15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-Other          14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-CBM BASIC V2   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+C++            2 hrs 52 mins   ████████████████████████▓   98.07 %
+CBM BASIC V2   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+C              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
