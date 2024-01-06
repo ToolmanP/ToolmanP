@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2023 - To: 04 January 2024
+From: 29 December 2023 - To: 05 January 2024
 
-Total Time: 3 hrs 31 mins
+Total Time: 3 hrs 32 mins
 
-C++                        51 mins         ██████░░░░░░░░░░░░░░░░░░░   24.33 %
-YAML                       49 mins         ██████░░░░░░░░░░░░░░░░░░░   23.55 %
-Docker                     39 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.72 %
-Bash                       18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
-TOML                       14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
+YAML                       1 hr 6 mins     ███████▓░░░░░░░░░░░░░░░░░   30.37 %
+Docker                     39 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.04 %
+Bash                       18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
+conf                       18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+TOML                       14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
 ```
 
 <!--END_SECTION:waka-->
