@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 January 2024 - To: 10 January 2024
+From: 04 January 2024 - To: 11 January 2024
 
-Total Time: 3 hrs 38 mins
+Total Time: 1 hr 2 mins
 
-YAML                       1 hr 6 mins     ███████▒░░░░░░░░░░░░░░░░░   29.51 %
-Docker                     39 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.53 %
-Bash                       20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
-conf                       18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-TOML                       14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+YAML          16 mins         ██████░░░░░░░░░░░░░░░░░░░   24.25 %
+Kotlin        13 mins         █████░░░░░░░░░░░░░░░░░░░░   19.72 %
+C             9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
+conf          8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
+Other         7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
 ```
 
 <!--END_SECTION:waka-->
