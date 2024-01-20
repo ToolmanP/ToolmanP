@@ -10,7 +10,7 @@
 
 🤖 I'm intrigued in niche behind-the-scene stuff and pretty poorly on graphics design.
 
-❤️  I appreciate all kinds of job/internship offers and here's my [CV](https://github.com/ToolmanP/ToolmanP/blob/master/files/cv.pdf) (last updated 10/16/2023).
+❤️  I appreciate all kinds of job/internship offers and here's my CV ([en](https://github.com/ToolmanP/ToolmanP/blob/master/files/cv_en.pdf)/[中文](https://github.com/ToolmanP/ToolmanP/blob/master/files/cv_zh.pdf)) (last updated 21/01/2024).
 
 📱 I'm not a frequent social-network diver so no outbound links. Consider contacting me via ToolmanP@outlook.com. 😉
 
