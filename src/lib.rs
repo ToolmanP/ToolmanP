@@ -57,3 +57,4 @@
 
 pub mod asm;
 pub mod registers;
+pub mod mmu;
