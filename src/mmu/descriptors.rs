@@ -1,11 +1,11 @@
 use tock_registers::{
     fields::{Field, FieldValue},
     interfaces::{ReadWriteable, Readable, Writeable},
-    register_bitfields,
+    register_bitfields, RegisterLongName,
 };
 
 register_bitfields![u64,
-    TableDescriptor [
+    pub TableDescriptor [
         NS  OFFSET(63) NUMBITS(1) [
             TRUE = 0b1,
             FALSE = 0b0
@@ -34,7 +34,7 @@ register_bitfields![u64,
         ]
     ],
 
-    BlockDescriptor [
+    pub BlockDescriptor [
         XN OFFSET(54) NUMBITS(1) [
             TRUE = 0b1,
             FALSE = 0b0
@@ -93,10 +93,14 @@ register_bitfields![u64,
 ];
 
 #[repr(transparent)]
-pub struct VADescriptor(u64);
+#[derive(Copy, Clone)]
+pub struct VADescriptor(pub u64);
 
 impl VADescriptor {
-    pub fn read_field(&self, field: Field<u64, ()>) -> u64 {
+    pub fn read_field<T>(&self, field: Field<u64, T>) -> u64
+    where
+        T: RegisterLongName,
+    {
         field.read(self.0)
     }
 
@@ -104,11 +108,20 @@ impl VADescriptor {
         self.0
     }
 
-    pub fn write_field(&mut self, field_value: FieldValue<u64, ()>) {
+    pub fn write_field<T>(&mut self, field_value: FieldValue<u64, T>)
+    where
+        T: RegisterLongName,
+    {
         self.0 = field_value.modify(self.0)
     }
 
     pub fn write(&mut self, val: u64) {
         self.0 = val
+    }
+}
+
+impl From<u64> for VADescriptor {
+    fn from(value: u64) -> Self {
+        VADescriptor(value)
     }
 }

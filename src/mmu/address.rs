@@ -1,8 +1,4 @@
-use tock_registers::{
-    fields::{Field, FieldValue},
-    interfaces::{ReadWriteable, Readable, Writeable},
-    register_bitfields,
-};
+use tock_registers::register_bitfields;
 
 register_bitfields! {u64,
     VAddr [
@@ -15,7 +11,12 @@ register_bitfields! {u64,
 }
 
 #[repr(transparent)]
-pub struct VirtAddress(u64);
+#[derive(Clone)]
+pub struct VirtAddress(pub u64);
+
+#[repr(transparent)]
+#[derive(Clone)]
+pub struct PhyAddress(pub u64);
 
 #[repr(C)]
 pub struct VirtLayout {
@@ -24,9 +25,6 @@ pub struct VirtLayout {
 }
 
 impl VirtAddress {
-    pub fn new(value: u64) -> Self {
-        VirtAddress(value)
-    }
     pub fn layout(&self) -> VirtLayout {
         VirtLayout {
             indexes: [
@@ -43,5 +41,11 @@ impl VirtAddress {
 impl From<u64> for VirtAddress {
     fn from(value: u64) -> Self {
         VirtAddress(value)
+    }
+}
+
+impl From<u64> for PhyAddress {
+    fn from(value: u64) -> Self {
+        PhyAddress(value)
     }
 }

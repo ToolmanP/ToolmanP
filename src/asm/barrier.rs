@@ -7,27 +7,21 @@
 
 //! Barrier functions.
 
-mod sealed {
-    pub trait Dmb {
-        fn dmb();
-    }
+pub trait Dmb {
+    fn dmb();
+}
 
-    pub trait Dsb {
-        fn dsb();
-    }
+pub trait Dsb {
+    fn dsb();
+}
 
-    pub trait Isb {
-        fn isb();
-    }
-
-    pub trait Tlbi {
-        fn __tlbi();
-    }
+pub trait Isb {
+    fn isb();
 }
 
 macro_rules! dmb_dsb {
     ($A:ident) => {
-        impl sealed::Dmb for $A {
+        impl Dmb for $A {
             #[inline(always)]
             fn dmb() {
                 match () {
@@ -41,7 +35,7 @@ macro_rules! dmb_dsb {
                 }
             }
         }
-        impl sealed::Dsb for $A {
+        impl Dsb for $A {
             #[inline(always)]
             fn dsb() {
                 match () {
@@ -57,9 +51,6 @@ macro_rules! dmb_dsb {
         }
     };
 }
-
-
-
 
 pub struct SY;
 pub struct ST;
@@ -87,7 +78,7 @@ dmb_dsb!(OSH);
 dmb_dsb!(OSHST);
 dmb_dsb!(OSHLD);
 
-impl sealed::Isb for SY {
+impl Isb for SY {
     #[inline(always)]
     fn isb() {
         match () {
@@ -99,4 +90,3 @@ impl sealed::Isb for SY {
         }
     }
 }
-
