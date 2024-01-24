@@ -7,23 +7,27 @@
 
 //! Barrier functions.
 
-pub trait Dmb {
-    fn dmb();
-}
+mod sealed {
+    pub trait Dmb {
+        fn dmb(&self);
+    }
 
-pub trait Dsb {
-    fn dsb();
-}
+    pub trait Dsb {
+        fn dsb(&self);
+    }
 
-pub trait Isb {
-    fn isb();
+    pub trait Isb {
+        fn isb(&self);
+    }
 }
 
 macro_rules! dmb_dsb {
     ($A:ident) => {
-        impl Dmb for $A {
+        pub struct $A;
+
+        impl sealed::Dmb for $A {
             #[inline(always)]
-            fn dmb() {
+            fn dmb(&self) {
                 match () {
                     #[cfg(target_arch = "aarch64")]
                     () => unsafe {
@@ -35,9 +39,9 @@ macro_rules! dmb_dsb {
                 }
             }
         }
-        impl Dsb for $A {
+        impl sealed::Dsb for $A {
             #[inline(always)]
-            fn dsb() {
+            fn dsb(&self) {
                 match () {
                     #[cfg(target_arch = "aarch64")]
                     () => unsafe {
@@ -52,35 +56,22 @@ macro_rules! dmb_dsb {
     };
 }
 
-pub struct SY;
-pub struct ST;
-pub struct LD;
-pub struct ISH;
-pub struct ISHST;
-pub struct ISHLD;
-pub struct NSH;
-pub struct NSHST;
-pub struct NSHLD;
-pub struct OSH;
-pub struct OSHST;
-pub struct OSHLD;
+dmb_dsb!(Sy);
+dmb_dsb!(St);
+dmb_dsb!(Ld);
+dmb_dsb!(Ish);
+dmb_dsb!(Ishst);
+dmb_dsb!(Ishld);
+dmb_dsb!(Nsh);
+dmb_dsb!(Nshst);
+dmb_dsb!(Nshld);
+dmb_dsb!(Osh);
+dmb_dsb!(Oshlt);
+dmb_dsb!(Oshld);
 
-dmb_dsb!(SY);
-dmb_dsb!(ST);
-dmb_dsb!(LD);
-dmb_dsb!(ISH);
-dmb_dsb!(ISHST);
-dmb_dsb!(ISHLD);
-dmb_dsb!(NSH);
-dmb_dsb!(NSHST);
-dmb_dsb!(NSHLD);
-dmb_dsb!(OSH);
-dmb_dsb!(OSHST);
-dmb_dsb!(OSHLD);
-
-impl Isb for SY {
+impl sealed::Isb for Sy {
     #[inline(always)]
-    fn isb() {
+    fn isb(&self) {
         match () {
             #[cfg(target_arch = "aarch64")]
             () => unsafe { core::arch::asm!("ISB SY", options(nostack)) },
@@ -89,4 +80,35 @@ impl Isb for SY {
             () => unimplemented!(),
         }
     }
+}
+
+pub const SY: Sy = Sy {};
+pub const ST: St = St {};
+pub const LD: Ld = Ld {};
+pub const ISH: Ish = Ish {};
+pub const ISHLD: Ishld = Ishld {};
+pub const NSH: Nshld = Nshld {};
+pub const OSH: Osh = Osh {};
+pub const OSHLT: Oshlt = Oshlt {};
+pub const OSHLD: Oshld = Oshld {};
+
+pub fn isb<T>(_arg: T)
+where
+    T: sealed::Isb,
+{
+    _arg.isb();
+}
+
+pub fn dsb<T>(_arg: T)
+where
+    T: sealed::Dsb,
+{
+    _arg.dsb();
+}
+
+pub fn dmb<T>(_arg: T)
+where
+    T: sealed::Dmb,
+{
+    _arg.dmb();
 }

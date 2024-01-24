@@ -1,15 +1,15 @@
 mod sealed {
     pub trait Tlbi {
-        fn invalidate();
+        fn invalidate(&self);
     }
 }
 
-macro_rules! tlbi{
+macro_rules! tlbi {
     ($A: ident) => {
         pub struct $A;
         impl sealed::Tlbi for $A {
             #[inline(always)]
-            fn invalidate(){
+            fn invalidate(&self) {
                 match () {
                     #[cfg(target_arch = "aarch64")]
                     () => unsafe {
@@ -21,10 +21,20 @@ macro_rules! tlbi{
                 }
             }
         }
-    }
+    };
 }
 
+tlbi!(Vmalle1is);
+tlbi!(Vmalle2is);
+tlbi!(Vmalle3is);
 
-tlbi!(VMALLE1IS);
-tlbi!(VMALLE2IS);
-tlbi!(VMALLE3IS);
+pub const VMALLE1IS: Vmalle1is = Vmalle1is {};
+pub const VMALLE2IS: Vmalle2is = Vmalle2is {};
+pub const VMALLE3IS: Vmalle3is = Vmalle3is {};
+
+pub fn tlbi<T>(_arg: T)
+where
+    T: sealed::Tlbi,
+{
+    _arg.invalidate()
+}
