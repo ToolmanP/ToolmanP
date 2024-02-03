@@ -21,11 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2024 - To: 01 February 2024
+From: 26 January 2024 - To: 02 February 2024
 
-Total Time: 0 secs
+Total Time: 3 hrs 28 mins
 
-No activity tracked
+Lua         2 hrs 48 mins   ████████████████████▒░░░░   80.72 %
+C++         29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
+Text        8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+C           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+gitignore   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
