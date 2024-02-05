@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2024 - To: 03 February 2024
+From: 28 January 2024 - To: 04 February 2024
 
-Total Time: 8 hrs 34 mins
+Total Time: 10 hrs 7 mins
 
-Lua         3 hrs 31 mins   ██████████░░░░░░░░░░░░░░░   39.89 %
-C++         3 hrs 3 mins    ████████▓░░░░░░░░░░░░░░░░   34.59 %
-Python      55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
-Text        19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Other       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Lua         3 hrs 31 mins   ████████▒░░░░░░░░░░░░░░░░   33.94 %
+C++         3 hrs 22 mins   ████████░░░░░░░░░░░░░░░░░   32.52 %
+Python      55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+C           23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Text        19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
 ```
 
 <!--END_SECTION:waka-->
