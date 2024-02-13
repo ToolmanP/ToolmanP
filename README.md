@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2024 - To: 11 February 2024
+From: 05 February 2024 - To: 12 February 2024
 
-Total Time: 15 hrs 42 mins
+Total Time: 13 hrs 6 mins
 
-Rust          9 hrs 31 mins   ███████████████░░░░░░░░░░   59.80 %
-C             1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
-C++           1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-CMake         59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
-SQL           25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+Rust        8 hrs 43 mins   ████████████████▒░░░░░░░░   65.41 %
+C           1 hr 23 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
+C++         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Assembly    33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+Python      26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
 ```
 
 <!--END_SECTION:waka-->
