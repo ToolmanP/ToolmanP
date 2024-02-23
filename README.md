@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 February 2024 - To: 21 February 2024
+From: 15 February 2024 - To: 22 February 2024
 
-Total Time: 6 hrs 29 mins
+Total Time: 11 hrs 57 mins
 
-SQL        1 hr 49 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.27 %
-CSS        1 hr 11 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
-C++        1 hr 8 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
-jsonc      49 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
-Python     44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
+Rust       5 hrs 53 mins   ███████████▓░░░░░░░░░░░░░   46.20 %
+SQL        1 hr 56 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
+CSS        1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+C++        1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+jsonc      49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
 ```
 
 <!--END_SECTION:waka-->
