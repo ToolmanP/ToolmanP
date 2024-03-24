@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 March 2024 - To: 22 March 2024
+From: 16 March 2024 - To: 23 March 2024
 
-Total Time: 28 hrs 22 mins
+Total Time: 24 hrs 55 mins
 
-Rust          14 hrs 36 mins  ████████████▓░░░░░░░░░░░░   50.40 %
-C             6 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.16 %
-Python        5 hrs 24 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
-Other         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-TOML          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Rust          13 hrs 28 mins  █████████████▒░░░░░░░░░░░   52.78 %
+C             6 hrs 25 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.15 %
+Python        3 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
+Other         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+TOML          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
