@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 March 2024 - To: 03 April 2024
+From: 28 March 2024 - To: 04 April 2024
 
-Total Time: 31 hrs 46 mins
+Total Time: 22 hrs 59 mins
 
-Rust         18 hrs 43 mins  ██████████████▓░░░░░░░░░░   58.07 %
-C            8 hrs 18 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.76 %
-GraphQL      46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-CMake        41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-GDB          40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Rust         10 hrs 10 mins  ███████████░░░░░░░░░░░░░░   43.59 %
+C            8 hrs 2 mins    ████████▓░░░░░░░░░░░░░░░░   34.44 %
+CMake        47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+GraphQL      46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+GDB          40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
 <!--END_SECTION:waka-->
