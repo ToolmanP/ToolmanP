@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2024 - To: 14 April 2024
+From: 08 April 2024 - To: 15 April 2024
 
-Total Time: 13 hrs 33 mins
+Total Time: 19 hrs 9 mins
 
-Lua           5 hrs 31 mins   ████████▓░░░░░░░░░░░░░░░░   34.46 %
-C             2 hrs 57 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
-Other         2 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
-Makefile      43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-fish          32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Lua           5 hrs 31 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.35 %
+C             4 hrs 35 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.06 %
+Other         2 hrs 39 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+Bash          2 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
+Makefile      1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
 ```
 
 <!--END_SECTION:waka-->
