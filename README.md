@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 April 2024 - To: 16 April 2024
+From: 10 April 2024 - To: 17 April 2024
 
-Total Time: 19 hrs 18 mins
+Total Time: 25 hrs 53 mins
 
-Lua           5 hrs 31 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.26 %
-C             4 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   19.42 %
-Other         2 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
-Bash          2 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
-Makefile      1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+Rust          6 hrs 2 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.82 %
+C             5 hrs 47 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.93 %
+Lua           5 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
+Bash          2 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
+Other         1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
 ```
 
 <!--END_SECTION:waka-->
