@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 April 2024 - To: 06 May 2024
+From: 30 April 2024 - To: 07 May 2024
 
-Total Time: 30 hrs 19 mins
+Total Time: 31 hrs 25 mins
 
-Go          17 hrs 32 mins  █████████████▓░░░░░░░░░░░   55.33 %
-Bash        2 hrs 38 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
-Rust        2 hrs 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-C           2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-YAML        1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+Go          17 hrs 7 mins   █████████████░░░░░░░░░░░░   51.64 %
+C           3 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+Bash        2 hrs 38 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+YAML        2 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+Rust        2 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
 ```
 
 <!--END_SECTION:waka-->
