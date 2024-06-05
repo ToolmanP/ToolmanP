@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 May 2024 - To: 03 June 2024
+From: 28 May 2024 - To: 04 June 2024
 
-Total Time: 43 hrs 40 mins
+Total Time: 40 hrs 23 mins
 
-Go          22 hrs 35 mins  █████████████░░░░░░░░░░░░   51.71 %
-Python      10 hrs 23 mins  ██████░░░░░░░░░░░░░░░░░░░   23.77 %
-Bash        4 hrs 53 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
-YAML        2 hrs 27 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
-JSON        54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Go          20 hrs 30 mins  ████████████▓░░░░░░░░░░░░   50.77 %
+Python      8 hrs 18 mins   █████░░░░░░░░░░░░░░░░░░░░   20.55 %
+Bash        6 hrs 24 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
+YAML        2 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Docker      50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
 ```
 
 <!--END_SECTION:waka-->
