@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2024 - To: 11 June 2024
+From: 05 June 2024 - To: 12 June 2024
 
-Total Time: 28 hrs 13 mins
+Total Time: 25 hrs 30 mins
 
-C           10 hrs 10 mins  █████████░░░░░░░░░░░░░░░░   35.78 %
-Go          6 hrs 40 mins   ██████░░░░░░░░░░░░░░░░░░░   23.51 %
-Python      3 hrs 58 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
-YAML        2 hrs 32 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-Rust        2 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+C           10 hrs 42 mins  ██████████▒░░░░░░░░░░░░░░   41.66 %
+Rust        4 hrs 53 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.00 %
+Go          4 hrs 16 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
+Python      2 hrs 41 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
+YAML        46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
 ```
 
 <!--END_SECTION:waka-->
