@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2024 - To: 13 June 2024
+From: 07 June 2024 - To: 14 June 2024
 
-Total Time: 17 hrs 16 mins
+Total Time: 16 hrs 46 mins
 
-C           10 hrs 42 mins  ███████████████▒░░░░░░░░░   61.66 %
-Rust        4 hrs 53 mins   ███████░░░░░░░░░░░░░░░░░░   28.12 %
-YAML        22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Markdown    14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Python      12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+C            10 hrs 42 mins  ████████████████░░░░░░░░░   63.50 %
+Rust         4 hrs 53 mins   ███████▒░░░░░░░░░░░░░░░░░   28.96 %
+Python       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Cuda         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
