@@ -21,15 +21,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2024 - To: 23 June 2024
+From: 17 June 2024 - To: 24 June 2024
 
-Total Time: 40 mins
+Total Time: 6 mins
 
-fish       13 mins         ████████▒░░░░░░░░░░░░░░░░   32.84 %
-conf       7 mins          █████░░░░░░░░░░░░░░░░░░░░   19.74 %
-Makefile   7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.54 %
-CSS        6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
-Bash       3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+conf    5 mins          ███████████████████▓░░░░░   79.03 %
+YAML    0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
+Other   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
 ```
 
 <!--END_SECTION:waka-->
