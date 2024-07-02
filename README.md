@@ -21,14 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2024 - To: 30 June 2024
+From: 24 June 2024 - To: 01 July 2024
 
-Total Time: 24 mins
+Total Time: 25 mins
 
-Bash        13 mins         █████████████▓░░░░░░░░░░░   54.08 %
-conf        10 mins         ███████████░░░░░░░░░░░░░░   44.04 %
-sshconfig   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Other       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Bash        13 mins         █████████████░░░░░░░░░░░░   52.16 %
+conf        10 mins         ██████████▓░░░░░░░░░░░░░░   42.48 %
+Rust        0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+sshconfig   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Other       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
