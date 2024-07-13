@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 July 2024 - To: 11 July 2024
+From: 05 July 2024 - To: 12 July 2024
 
-Total Time: 23 hrs 32 mins
+Total Time: 29 hrs 49 mins
 
-Rust          11 hrs 14 mins  ████████████░░░░░░░░░░░░░   47.65 %
-C             3 hrs 34 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
-Python        2 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
-Bash          1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-yuck          1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+Rust          16 hrs 32 mins  ██████████████░░░░░░░░░░░   55.38 %
+C             3 hrs 43 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
+Python        2 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+Bash          1 hr 34 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+yuck          1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
 ```
 
 <!--END_SECTION:waka-->
