@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 July 2024 - To: 22 July 2024
+From: 16 July 2024 - To: 23 July 2024
 
-Total Time: 42 hrs 47 mins
+Total Time: 42 hrs 39 mins
 
-Rust          20 hrs 50 mins  ████████████░░░░░░░░░░░░░   48.66 %
-Python        8 hrs           ████▓░░░░░░░░░░░░░░░░░░░░   18.70 %
-Makefile      5 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
-C             4 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
-Markdown      1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+Rust          20 hrs 57 mins  ████████████▒░░░░░░░░░░░░   49.09 %
+Python        8 hrs 2 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.84 %
+Makefile      5 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
+C             3 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+Markdown      1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
 ```
 
 <!--END_SECTION:waka-->
