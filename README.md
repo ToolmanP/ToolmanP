@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2024 - To: 07 August 2024
+From: 01 August 2024 - To: 08 August 2024
 
-Total Time: 37 hrs
+Total Time: 41 hrs 5 mins
 
-Rust               12 hrs 52 mins  ████████▓░░░░░░░░░░░░░░░░   34.72 %
-C                  7 hrs 38 mins   █████░░░░░░░░░░░░░░░░░░░░   20.59 %
-CMake              3 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-Markdown           3 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
-Makefile           2 hrs 56 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+Rust               13 hrs 22 mins  ████████░░░░░░░░░░░░░░░░░   32.29 %
+C                  7 hrs 57 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.21 %
+CMake              3 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+Markdown           3 hrs 38 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+Makefile           2 hrs 56 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
 ```
 
 <!--END_SECTION:waka-->
