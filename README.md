@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2024 - To: 26 August 2024
+From: 20 August 2024 - To: 27 August 2024
 
-Total Time: 10 hrs 33 mins
+Total Time: 14 hrs 31 mins
 
-C            4 hrs 44 mins   ███████████▒░░░░░░░░░░░░░   44.86 %
-Rust         4 hrs 26 mins   ██████████▓░░░░░░░░░░░░░░   42.09 %
-Assembly     30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-Markdown     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-INI          12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+C             6 hrs 3 mins    ██████████▒░░░░░░░░░░░░░░   41.71 %
+Rust          4 hrs 4 mins    ███████░░░░░░░░░░░░░░░░░░   28.07 %
+typst         43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+conf          35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+YAML          34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
 ```
 
 <!--END_SECTION:waka-->
