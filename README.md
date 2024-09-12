@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2024 - To: 10 September 2024
+From: 04 September 2024 - To: 11 September 2024
 
-Total Time: 36 hrs 6 mins
+Total Time: 38 hrs 10 mins
 
-Rust        11 hrs 30 mins  ███████▓░░░░░░░░░░░░░░░░░   30.86 %
-Markdown    9 hrs           ██████░░░░░░░░░░░░░░░░░░░   24.15 %
-C           3 hrs 56 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
-CMake       1 hr 58 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-Docker      1 hr 57 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+Rust        11 hrs          ███████░░░░░░░░░░░░░░░░░░   28.22 %
+Markdown    9 hrs           █████▓░░░░░░░░░░░░░░░░░░░   23.11 %
+C           3 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+Bash        2 hrs 50 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+sh          2 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
 ```
 
 <!--END_SECTION:waka-->
