@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2024 - To: 21 September 2024
+From: 15 September 2024 - To: 22 September 2024
 
-Total Time: 40 hrs
+Total Time: 35 hrs 45 mins
 
-C++           12 hrs 3 mins   ███████▒░░░░░░░░░░░░░░░░░   29.80 %
-C             8 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   20.09 %
-Rust          4 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
-Makefile      2 hrs 57 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-Config        2 hrs 43 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+C             8 hrs 31 mins   ██████░░░░░░░░░░░░░░░░░░░   23.54 %
+C++           8 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.59 %
+Makefile      3 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+Rust          2 hrs 59 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+Config        2 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
 ```
 
 <!--END_SECTION:waka-->
