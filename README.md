@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2024 - To: 10 October 2024
+From: 04 October 2024 - To: 11 October 2024
 
-Total Time: 14 hrs 41 mins
+Total Time: 15 hrs 47 mins
 
-C             5 hrs 46 mins   █████████▒░░░░░░░░░░░░░░░   37.01 %
-Markdown      1 hr 24 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-Python        1 hr 22 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
-C++           1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-conf          1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+C             6 hrs 39 mins   ██████████░░░░░░░░░░░░░░░   39.88 %
+Markdown      1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
+Python        1 hr 22 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+C++           1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
+conf          1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
 ```
 
 <!--END_SECTION:waka-->
