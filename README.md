@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2024 - To: 21 October 2024
+From: 15 October 2024 - To: 22 October 2024
 
-Total Time: 17 hrs 24 mins
+Total Time: 17 hrs 14 mins
 
-C             5 hrs 54 mins   ████████▒░░░░░░░░░░░░░░░░   33.67 %
-Markdown      5 hrs 8 mins    ███████▒░░░░░░░░░░░░░░░░░   29.26 %
-Rust          1 hr 57 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
-YAML          54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
-CMake         38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+C             5 hrs 18 mins   ███████▓░░░░░░░░░░░░░░░░░   30.64 %
+Markdown      4 hrs 55 mins   ███████░░░░░░░░░░░░░░░░░░   28.47 %
+Python        2 hrs 15 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
+Rust          1 hr 50 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
+CMake         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
 ```
 
 <!--END_SECTION:waka-->
