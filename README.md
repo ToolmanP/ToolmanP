@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 October 2024 - To: 27 October 2024
+From: 21 October 2024 - To: 28 October 2024
 
-Total Time: 23 hrs 2 mins
+Total Time: 22 hrs 38 mins
 
-Go           4 hrs 28 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.21 %
-Python       3 hrs 24 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
-Markdown     3 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
-C            3 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
-Lua          2 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
+Go           4 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   19.50 %
+C            3 hrs 39 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
+Python       3 hrs 25 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.93 %
+Rust         2 hrs 24 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+Lua          2 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
 ```
 
 <!--END_SECTION:waka-->
