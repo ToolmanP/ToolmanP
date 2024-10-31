@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2024 - To: 29 October 2024
+From: 23 October 2024 - To: 30 October 2024
 
-Total Time: 26 hrs 32 mins
+Total Time: 31 hrs 48 mins
 
-Rust         6 hrs 54 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.68 %
-Go           4 hrs 24 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
-C            3 hrs 43 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
-Lua          2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
-Python       1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+Rust          8 hrs 14 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.61 %
+C             4 hrs 47 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
+Go            4 hrs 24 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 %
+Lua           2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+C++           2 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
 ```
 
 <!--END_SECTION:waka-->
