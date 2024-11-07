@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2024 - To: 05 November 2024
+From: 30 October 2024 - To: 06 November 2024
 
-Total Time: 28 hrs 48 mins
+Total Time: 24 hrs 28 mins
 
-C++           12 hrs 45 mins  ███████████░░░░░░░░░░░░░░   43.96 %
-C             4 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
-Go            2 hrs 45 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
-Rust          1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-CMake         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+C++           14 hrs 31 mins  ██████████████▓░░░░░░░░░░   58.90 %
+Go            2 hrs 45 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
+C             2 hrs 43 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
+Objective-C   40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+JSON          39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 ```
 
 <!--END_SECTION:waka-->
