@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2024 - To: 08 November 2024
+From: 02 November 2024 - To: 09 November 2024
 
-Total Time: 23 hrs 46 mins
+Total Time: 25 hrs 30 mins
 
-C++           8 hrs 16 mins   ████████▓░░░░░░░░░░░░░░░░   34.18 %
-C             3 hrs 17 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
-Python        3 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
-Rust          2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
-RPMSpec       1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+C++           8 hrs 16 mins   ████████░░░░░░░░░░░░░░░░░   31.81 %
+C             3 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
+Python        3 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
+Rust          2 hrs 49 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
+Bash          1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
 ```
 
 <!--END_SECTION:waka-->
