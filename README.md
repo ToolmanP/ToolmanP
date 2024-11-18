@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2024 - To: 16 November 2024
+From: 10 November 2024 - To: 17 November 2024
 
-Total Time: 49 hrs 56 mins
+Total Time: 52 hrs 1 min
 
-C             22 hrs 19 mins  ███████████░░░░░░░░░░░░░░   43.55 %
-Go            11 hrs 39 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.73 %
-Rust          5 hrs 14 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
-Ruby          1 hr 23 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-Other         1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+C             21 hrs 58 mins  ██████████▒░░░░░░░░░░░░░░   41.76 %
+Go            15 hrs 21 mins  ███████▒░░░░░░░░░░░░░░░░░   29.21 %
+Rust          3 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Ruby          1 hr 26 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Bash          1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
 ```
 
 <!--END_SECTION:waka-->
