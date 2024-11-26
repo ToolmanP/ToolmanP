@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2024 - To: 24 November 2024
+From: 18 November 2024 - To: 25 November 2024
 
-Total Time: 44 hrs 30 mins
+Total Time: 43 hrs 42 mins
 
-C             17 hrs 49 mins  ██████████░░░░░░░░░░░░░░░   40.04 %
-C++           12 hrs 59 mins  ███████▒░░░░░░░░░░░░░░░░░   29.18 %
-Go            9 hrs 26 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.21 %
-JSON          1 hr 50 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-Makefile      29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+C             21 hrs 28 mins  ████████████▒░░░░░░░░░░░░   49.10 %
+C++           9 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.83 %
+Go            9 hrs 4 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.76 %
+JSON          1 hr 26 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Makefile      26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
