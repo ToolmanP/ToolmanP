@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2024 - To: 02 December 2024
+From: 26 November 2024 - To: 03 December 2024
 
-Total Time: 36 hrs 7 mins
+Total Time: 36 hrs 54 mins
 
-C              22 hrs 58 mins  ███████████████▓░░░░░░░░░   63.31 %
-conf           4 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
-Lua            2 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-Objective-C    1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-Docker         42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+C              23 hrs 21 mins  ███████████████▓░░░░░░░░░   63.06 %
+conf           3 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+Lua            2 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+Objective-C    1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+Python         49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 ```
 
 <!--END_SECTION:waka-->
