@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 November 2024 - To: 06 December 2024
+From: 01 December 2024 - To: 08 December 2024
 
-Total Time: 29 hrs 2 mins
+Total Time: 20 hrs 19 mins
 
-C              12 hrs 23 mins  ██████████▓░░░░░░░░░░░░░░   42.11 %
-conf           2 hrs 58 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-Python         2 hrs 49 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
-Lua            1 hr 53 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-Makefile       1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+C             11 hrs 8 mins   █████████████▓░░░░░░░░░░░   54.00 %
+Python        2 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
+Makefile      1 hr 44 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+Objective-C   1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+CMake         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
 ```
 
 <!--END_SECTION:waka-->
