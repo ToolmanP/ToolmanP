@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 December 2024 - To: 14 December 2024
+From: 08 December 2024 - To: 15 December 2024
 
-Total Time: 25 hrs 30 mins
+Total Time: 29 hrs 2 mins
 
-C              12 hrs 5 mins   ███████████▓░░░░░░░░░░░░░   47.10 %
-Rust           4 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
-conf           1 hr 54 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
-Makefile       1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-CMake          57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+C              12 hrs 5 mins   ██████████▒░░░░░░░░░░░░░░   41.40 %
+Rust           4 hrs 36 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
+Python         3 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
+conf           1 hr 54 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+Makefile       1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
 ```
 
 <!--END_SECTION:waka-->
