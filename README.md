@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 December 2024 - To: 21 December 2024
+From: 15 December 2024 - To: 22 December 2024
 
-Total Time: 29 hrs 20 mins
+Total Time: 29 hrs 2 mins
 
-C            17 hrs 41 mins  ███████████████░░░░░░░░░░   59.49 %
-Python       3 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
-Go           2 hrs 49 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-fish         1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-C++          41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+C           17 hrs 40 mins  ███████████████░░░░░░░░░░   60.06 %
+Go          5 hrs 40 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
+fish        1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+C++         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Bash        37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 ```
 
 <!--END_SECTION:waka-->
