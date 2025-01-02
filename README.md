@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2024 - To: 31 December 2024
+From: 25 December 2024 - To: 01 January 2025
 
-Total Time: 33 hrs 6 mins
+Total Time: 31 hrs 26 mins
 
-C             28 hrs 33 mins  █████████████████████▓░░░   86.24 %
-Go            1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-INI           1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-conf          54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-S             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+C             27 hrs 12 mins  █████████████████████▓░░░   86.49 %
+INI           1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+conf          1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+S             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Bash          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
