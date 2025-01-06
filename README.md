@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2024 - To: 04 January 2025
+From: 29 December 2024 - To: 05 January 2025
 
-Total Time: 27 hrs 27 mins
+Total Time: 24 hrs 1 min
 
-C             20 hrs 28 mins  ██████████████████▓░░░░░░   74.55 %
-conf          2 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-Bash          1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-Text          55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-S             41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+C             12 hrs 45 mins  █████████████▒░░░░░░░░░░░   53.05 %
+Python        3 hrs 48 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
+conf          2 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+Bash          1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+Text          55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
 ```
 
 <!--END_SECTION:waka-->
