@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 January 2025 - To: 09 January 2025
+From: 03 January 2025 - To: 10 January 2025
 
-Total Time: 34 hrs 29 mins
+Total Time: 35 hrs 19 mins
 
-C             17 hrs 9 mins   ████████████▒░░░░░░░░░░░░   49.71 %
-Python        6 hrs 19 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.32 %
-Bash          3 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
-C++           1 hr 51 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-conf          1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+C             19 hrs 24 mins  █████████████▓░░░░░░░░░░░   54.90 %
+Python        6 hrs 19 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
+Bash          2 hrs 58 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
+C++           1 hr 51 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+Makefile      51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 ```
 
 <!--END_SECTION:waka-->
