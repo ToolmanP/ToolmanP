@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 January 2025 - To: 20 January 2025
+From: 15 January 2025 - To: 22 January 2025
 
-Total Time: 10 hrs 20 mins
+Total Time: 5 hrs 59 mins
 
-Python      2 hrs 53 mins   ███████░░░░░░░░░░░░░░░░░░   27.85 %
-Nix         2 hrs 8 mins    █████░░░░░░░░░░░░░░░░░░░░   20.55 %
-TeX         1 hr 58 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.98 %
-plaintex    1 hr 32 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 %
-BibTeX      36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+Nix         2 hrs 8 mins    █████████░░░░░░░░░░░░░░░░   35.50 %
+Rust        1 hr 54 mins    ████████░░░░░░░░░░░░░░░░░   31.77 %
+plaintex    42 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+Lua         31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+GDB         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
 ```
 
 <!--END_SECTION:waka-->
