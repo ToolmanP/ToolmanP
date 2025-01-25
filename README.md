@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2025 - To: 23 January 2025
+From: 17 January 2025 - To: 24 January 2025
 
-Total Time: 7 hrs 41 mins
+Total Time: 11 hrs 5 mins
 
-Rust       3 hrs 29 mins   ███████████▒░░░░░░░░░░░░░   45.10 %
-Nix        2 hrs 8 mins    ███████░░░░░░░░░░░░░░░░░░   27.66 %
-C          54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
-Lua        33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-GDB        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Rust         4 hrs 15 mins   █████████▓░░░░░░░░░░░░░░░   38.29 %
+Nix          2 hrs 8 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.21 %
+expect       1 hr 40 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
+C            58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+Python       47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
 ```
 
 <!--END_SECTION:waka-->
