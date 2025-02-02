@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2025 - To: 31 January 2025
+From: 25 January 2025 - To: 01 February 2025
 
-Total Time: 17 hrs 15 mins
+Total Time: 19 hrs 47 mins
 
-Bash          4 hrs 7 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.22 %
-Rust          4 hrs           █████▓░░░░░░░░░░░░░░░░░░░   22.55 %
-Go            2 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
-Python        1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-fish          1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Rust          6 hrs 24 mins   ████████░░░░░░░░░░░░░░░░░   31.59 %
+Bash          4 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   20.31 %
+Go            2 hrs 52 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
+Python        1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
+fish          1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
 ```
 
 <!--END_SECTION:waka-->
