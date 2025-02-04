@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 January 2025 - To: 02 February 2025
+From: 27 January 2025 - To: 03 February 2025
 
-Total Time: 22 hrs 26 mins
+Total Time: 25 hrs 6 mins
 
-Rust          8 hrs 21 mins   █████████░░░░░░░░░░░░░░░░   36.43 %
-Bash          4 hrs 14 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
-TypeScript    1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-Python        1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
-Markdown      1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+Rust          6 hrs 19 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.68 %
+Bash          5 hrs 35 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.81 %
+C             1 hr 53 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+TypeScript    1 hr 50 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+Python        1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
 ```
 
 <!--END_SECTION:waka-->
