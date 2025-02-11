@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2025 - To: 09 February 2025
+From: 03 February 2025 - To: 10 February 2025
 
-Total Time: 7 hrs 46 mins
+Total Time: 2 hrs 51 mins
 
-Rust        2 hrs 45 mins   █████████░░░░░░░░░░░░░░░░   35.41 %
-Bash        1 hr 22 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
-Makefile    1 hr 8 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
-C           1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 %
-Docker      41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+Rust        2 hrs 35 mins   ██████████████████████▓░░   90.31 %
+Makefile    10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+Go          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Bash        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+TOML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
