@@ -21,15 +21,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 February 2025 - To: 10 February 2025
+From: 04 February 2025 - To: 11 February 2025
 
-Total Time: 2 hrs 51 mins
+Total Time: 1 hr 5 mins
 
-Rust        2 hrs 35 mins   ██████████████████████▓░░   90.31 %
-Makefile    10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
-Go          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-Bash        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-TOML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Rust        1 hr 4 mins     ████████████████████████▓   98.57 %
+TOML        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+gitrebase   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
