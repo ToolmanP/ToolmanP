@@ -21,11 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2025 - To: 13 February 2025
+From: 07 February 2025 - To: 14 February 2025
 
-Total Time: 0 secs
+Total Time: 3 hrs 35 mins
 
-No activity tracked
+Markdown    1 hr 6 mins     ██████▓░░░░░░░░░░░░░░░░░░   27.30 %
+Lua         52 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.51 %
+C           38 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.73 %
+sh          33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
+Other       26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
 ```
 
 <!--END_SECTION:waka-->
