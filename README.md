@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2025 - To: 17 February 2025
+From: 11 February 2025 - To: 18 February 2025
 
-Total Time: 13 hrs 50 mins
+Total Time: 16 hrs 34 mins
 
-C           5 hrs 59 mins   ██████████▒░░░░░░░░░░░░░░   41.98 %
-Python      1 hr 39 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
-Markdown    1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
-Lua         1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
-mail        41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+C           8 hrs 12 mins   ████████████░░░░░░░░░░░░░   48.20 %
+Markdown    1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
+Python      1 hr 39 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+Lua         1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+mail        50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
 ```
 
 <!--END_SECTION:waka-->
