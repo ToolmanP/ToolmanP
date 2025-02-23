@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 February 2025 - To: 21 February 2025
+From: 15 February 2025 - To: 22 February 2025
 
-Total Time: 22 hrs 16 mins
+Total Time: 25 hrs 38 mins
 
-C              11 hrs 10 mins  ████████████▓░░░░░░░░░░░░   50.13 %
-C++            2 hrs 12 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
-Python         1 hr 51 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-Go             54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-mail           50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+C              9 hrs 15 mins   █████████░░░░░░░░░░░░░░░░   36.07 %
+Rust           5 hrs 31 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.52 %
+C++            2 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+Go             1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+Python         1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
 ```
 
 <!--END_SECTION:waka-->
