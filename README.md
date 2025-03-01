@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 February 2025 - To: 27 February 2025
+From: 21 February 2025 - To: 28 February 2025
 
-Total Time: 42 hrs 25 mins
+Total Time: 49 hrs 25 mins
 
-C               19 hrs          ███████████░░░░░░░░░░░░░░   44.62 %
-Rust            5 hrs 57 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
-Go              2 hrs 53 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-TeX             2 hrs 38 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
-Assembly        1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+C               23 hrs 30 mins  ████████████░░░░░░░░░░░░░   47.39 %
+Rust            6 hrs 25 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
+TeX             2 hrs 38 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Bash            2 hrs 18 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Go              1 hr 59 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
 ```
 
 <!--END_SECTION:waka-->
