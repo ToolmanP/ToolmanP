@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 February 2025 - To: 06 March 2025
+From: 28 February 2025 - To: 07 March 2025
 
-Total Time: 40 hrs 34 mins
+Total Time: 33 hrs 43 mins
 
-C             29 hrs 41 mins  ██████████████████▒░░░░░░   73.16 %
-Rust          3 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-Bash          1 hr 51 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-S             1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-TypeScript    1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+C             26 hrs 26 mins  ███████████████████▓░░░░░   78.39 %
+Rust          2 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+S             42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Go            32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Assembly      30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
