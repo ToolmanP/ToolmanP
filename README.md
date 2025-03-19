@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 March 2025 - To: 17 March 2025
+From: 11 March 2025 - To: 18 March 2025
 
-Total Time: 30 hrs 17 mins
+Total Time: 32 hrs 7 mins
 
-C             18 hrs 33 mins  ███████████████▒░░░░░░░░░   61.24 %
-C++           5 hrs           ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
-Rust          3 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
-Lua           1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-TypeScript    39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+C                  20 hrs 21 mins  ███████████████▓░░░░░░░░░   63.32 %
+C++                4 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
+Rust               3 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
+Lua                1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+TypeScript         39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:waka-->
