@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2025 - To: 26 March 2025
+From: 20 March 2025 - To: 27 March 2025
 
-Total Time: 10 hrs 14 mins
+Total Time: 13 hrs 56 mins
 
-C++            4 hrs 25 mins   ██████████▒░░░░░░░░░░░░░░   41.70 %
-C              3 hrs 42 mins   ████████▓░░░░░░░░░░░░░░░░   34.88 %
-Python         32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-Objective-C    23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-Other          22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+C++            3 hrs 58 mins   ███████░░░░░░░░░░░░░░░░░░   27.69 %
+TeX            3 hrs 19 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.19 %
+C              2 hrs 38 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.40 %
+Python         1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+Lua            48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
 ```
 
 <!--END_SECTION:waka-->
