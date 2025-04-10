@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 April 2025 - To: 08 April 2025
+From: 02 April 2025 - To: 09 April 2025
 
-Total Time: 15 hrs 58 mins
+Total Time: 16 hrs 6 mins
 
-C              8 hrs 9 mins    ████████████▓░░░░░░░░░░░░   51.09 %
-YAML           2 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
-Nix            1 hr 41 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
-TeX            57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-INI            29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+C              8 hrs 1 min     ████████████▒░░░░░░░░░░░░   49.84 %
+YAML           2 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
+Nix            1 hr 41 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
+TeX            1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+Python         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
 ```
 
 <!--END_SECTION:waka-->
