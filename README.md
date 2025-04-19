@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2025 - To: 17 April 2025
+From: 11 April 2025 - To: 18 April 2025
 
-Total Time: 21 hrs 15 mins
+Total Time: 17 hrs
 
-Markdown        5 hrs 50 mins   ███████░░░░░░░░░░░░░░░░░░   27.42 %
-Go              3 hrs 45 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.66 %
-C               3 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
-TeX             1 hr 59 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-Python          1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+Markdown        5 hrs 42 mins   ████████▒░░░░░░░░░░░░░░░░   33.48 %
+C               3 hrs 9 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.53 %
+TeX             2 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
+Python          1 hr 35 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
+Ruby            1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
 ```
 
 <!--END_SECTION:waka-->
