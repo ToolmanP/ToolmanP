@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 April 2025 - To: 25 April 2025
+From: 19 April 2025 - To: 26 April 2025
 
-Total Time: 30 hrs 16 mins
+Total Time: 25 hrs 30 mins
 
-TeX            9 hrs 39 mins   ████████░░░░░░░░░░░░░░░░░   31.64 %
-Rust           5 hrs 21 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.55 %
-Go             5 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.41 %
-Lua            2 hrs 48 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
-conf           2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+TeX            10 hrs 28 mins  ██████████▒░░░░░░░░░░░░░░   40.79 %
+Rust           5 hrs 21 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.86 %
+Go             5 hrs 18 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.69 %
+conf           2 hrs 13 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+C              33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
 
 <!--END_SECTION:waka-->
