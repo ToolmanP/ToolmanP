@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 10 May 2025
+From: 04 May 2025 - To: 11 May 2025
 
-Total Time: 12 hrs 4 mins
+Total Time: 13 hrs 2 mins
 
-C             5 hrs 38 mins   ███████████▓░░░░░░░░░░░░░   46.11 %
-Markdown      2 hrs 52 mins   ██████░░░░░░░░░░░░░░░░░░░   23.51 %
-Python        1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-Rust          30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-Objective-C   29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+C             7 hrs 1 min     █████████████▒░░░░░░░░░░░   53.11 %
+Markdown      2 hrs 52 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.80 %
+Python        1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
+Objective-C   29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+Go            16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
