@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 May 2025 - To: 15 May 2025
+From: 09 May 2025 - To: 16 May 2025
 
-Total Time: 17 hrs 29 mins
+Total Time: 16 hrs 55 mins
 
-C             11 hrs 3 mins   ███████████████▓░░░░░░░░░   63.18 %
-Go            4 hrs 9 mins    ██████░░░░░░░░░░░░░░░░░░░   23.81 %
-CSV           38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-Objective-C   29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Markdown      13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+C             10 hrs 12 mins  ███████████████░░░░░░░░░░   60.31 %
+Go            4 hrs 37 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.31 %
+CSV           38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+Objective-C   29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Markdown      13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
