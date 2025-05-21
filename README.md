@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 May 2025 - To: 19 May 2025
+From: 13 May 2025 - To: 20 May 2025
 
-Total Time: 16 hrs 21 mins
+Total Time: 18 hrs 10 mins
 
-C            7 hrs 35 mins   ███████████▒░░░░░░░░░░░░░   45.76 %
-Go           6 hrs 5 mins    █████████▒░░░░░░░░░░░░░░░   36.67 %
-Rust         1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-TypeScript   33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-Python       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+C            8 hrs 51 mins   ████████████░░░░░░░░░░░░░   48.16 %
+Go           6 hrs 38 mins   █████████░░░░░░░░░░░░░░░░   36.05 %
+Rust         1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+TypeScript   33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Python       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
