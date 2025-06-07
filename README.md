@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2025 - To: 05 June 2025
+From: 30 May 2025 - To: 06 June 2025
 
-Total Time: 30 hrs 55 mins
+Total Time: 29 hrs 26 mins
 
-sh                 6 hrs 51 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.29 %
-C                  3 hrs 56 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
-Python             3 hrs 47 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
-Rust               3 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
-Makefile           2 hrs 49 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+sh                 6 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
+C                  3 hrs 48 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
+Python             3 hrs 47 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
+Rust               3 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+Assembly           2 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
 ```
 
 <!--END_SECTION:waka-->
