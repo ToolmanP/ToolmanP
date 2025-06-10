@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2025 - To: 08 June 2025
+From: 02 June 2025 - To: 09 June 2025
 
-Total Time: 23 hrs 49 mins
+Total Time: 20 hrs 8 mins
 
-sh                 6 hrs 43 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.78 %
-Python             3 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.42 %
-C                  3 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
-Makefile           2 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
-Go                 2 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+sh                 5 hrs 16 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.15 %
+Python             3 hrs 52 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.49 %
+C                  2 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
+Go                 2 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
+Makefile           1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
 ```
 
 <!--END_SECTION:waka-->
