@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2025 - To: 10 June 2025
+From: 04 June 2025 - To: 11 June 2025
 
-Total Time: 13 hrs 29 mins
+Total Time: 10 hrs 52 mins
 
-Python             3 hrs 52 mins   ███████░░░░░░░░░░░░░░░░░░   28.10 %
-Go                 2 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
-C                  2 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
-sh                 1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
-Assembly           1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+Python             4 hrs 32 mins   ██████████▒░░░░░░░░░░░░░░   40.97 %
+C                  1 hr 37 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 %
+sh                 1 hr 26 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
+Assembly           55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+CSV                52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
 ```
 
 <!--END_SECTION:waka-->
