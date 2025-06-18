@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 June 2025 - To: 16 June 2025
+From: 10 June 2025 - To: 17 June 2025
 
-Total Time: 12 hrs 59 mins
+Total Time: 18 hrs 13 mins
 
-C                  6 hrs 31 mins   ████████████▒░░░░░░░░░░░░   49.86 %
-Bash               1 hr 45 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
-Python             1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
-C++                58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
-Assembly           42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+C                  9 hrs 57 mins   █████████████▓░░░░░░░░░░░   54.31 %
+Assembly           1 hr 53 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
+Bash               1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+Python             1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+C++                58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
 ```
 
 <!--END_SECTION:waka-->
