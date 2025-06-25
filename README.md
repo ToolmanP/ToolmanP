@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2025 - To: 23 June 2025
+From: 17 June 2025 - To: 24 June 2025
 
-Total Time: 21 hrs 19 mins
+Total Time: 17 hrs 22 mins
 
-C                  12 hrs 14 mins  ██████████████▒░░░░░░░░░░   56.95 %
-Rust               3 hrs 35 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
-Assembly           1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-sh                 1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-Docker             50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+C                  8 hrs 32 mins   ████████████▒░░░░░░░░░░░░   48.72 %
+Rust               5 hrs 4 mins    ███████▒░░░░░░░░░░░░░░░░░   28.94 %
+sh                 1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+Docker             50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+TypeScript         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
 ```
 
 <!--END_SECTION:waka-->
