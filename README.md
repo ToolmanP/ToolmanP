@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 July 2025 - To: 28 July 2025
+From: 22 July 2025 - To: 29 July 2025
 
-Total Time: 15 hrs 22 mins
+Total Time: 15 hrs 46 mins
 
-C             8 hrs 48 mins   █████████████▓░░░░░░░░░░░   55.15 %
-conf          2 hrs 42 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.90 %
-sh            1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-Assembly      55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
-Markdown      54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+C             9 hrs 26 mins   ██████████████▓░░░░░░░░░░   58.09 %
+conf          2 hrs 42 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
+sh            1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+Markdown      54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+Assembly      46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
 ```
 
 <!--END_SECTION:waka-->
