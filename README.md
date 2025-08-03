@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2025 - To: 01 August 2025
+From: 26 July 2025 - To: 02 August 2025
 
-Total Time: 19 hrs 13 mins
+Total Time: 23 hrs 46 mins
 
-C             11 hrs 19 mins  ██████████████▓░░░░░░░░░░   58.68 %
-sh            2 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
-neomuttrc     1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-Python        1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-conf          58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+C             11 hrs 26 mins  ████████████░░░░░░░░░░░░░   47.56 %
+sh            5 hrs 23 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.38 %
+Python        1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+neomuttrc     1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+conf          43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
 ```
 
 <!--END_SECTION:waka-->
