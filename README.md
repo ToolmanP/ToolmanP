@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2025 - To: 14 August 2025
+From: 08 August 2025 - To: 15 August 2025
 
-Total Time: 22 hrs 55 mins
+Total Time: 19 hrs 48 mins
 
-Rust          10 hrs 1 min    ██████████▒░░░░░░░░░░░░░░   41.74 %
-C             7 hrs 29 mins   ███████▓░░░░░░░░░░░░░░░░░   31.20 %
-sh            3 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.09 %
-Other         1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-Assembly      34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+C             7 hrs 29 mins   █████████░░░░░░░░░░░░░░░░   35.86 %
+Rust          6 hrs 59 mins   ████████▒░░░░░░░░░░░░░░░░   33.48 %
+sh            3 hrs 22 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
+Other         1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Assembly      34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:waka-->
