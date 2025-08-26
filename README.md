@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2025 - To: 24 August 2025
+From: 18 August 2025 - To: 25 August 2025
 
-Total Time: 16 hrs 1 min
+Total Time: 9 hrs 3 mins
 
-C            4 hrs 59 mins   ███████▓░░░░░░░░░░░░░░░░░   30.81 %
-sh           2 hrs 28 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
-Docker       2 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
-Rust         1 hr 59 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
-Makefile     1 hr 49 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+Docker       2 hrs 10 mins   ██████░░░░░░░░░░░░░░░░░░░   23.67 %
+Rust         1 hr 59 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.71 %
+Makefile     1 hr 45 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
+sh           1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
+C            40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
 ```
 
 <!--END_SECTION:waka-->
