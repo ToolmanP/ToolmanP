@@ -21,15 +21,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2025 - To: 28 August 2025
+From: 22 August 2025 - To: 29 August 2025
 
-Total Time: 3 hrs 42 mins
+Total Time: 1 hr 42 mins
 
-Rust         3 hrs 5 mins    █████████████████████░░░░   83.51 %
-gitrebase    12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-Text         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-Docker       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Rust   1 hr 28 mins    █████████████████████▓░░░   86.07 %
+Text   9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
+JSON   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
 ```
 
 <!--END_SECTION:waka-->
