@@ -21,13 +21,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2025 - To: 29 August 2025
+From: 23 August 2025 - To: 30 August 2025
 
-Total Time: 1 hr 42 mins
+Total Time: 1 hr 15 mins
 
-Rust   1 hr 28 mins    █████████████████████▓░░░   86.07 %
-Text   9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
-JSON   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Rust   1 hr 5 mins     ██████████████████████░░░   87.55 %
+Text   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+JSON   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
 ```
 
 <!--END_SECTION:waka-->
