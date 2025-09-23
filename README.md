@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2025 - To: 20 September 2025
+From: 15 September 2025 - To: 22 September 2025
 
-Total Time: 11 hrs 49 mins
+Total Time: 9 hrs 38 mins
 
-C                  3 hrs 4 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.97 %
-sh                 1 hr 55 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
-conf               1 hr 46 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
-Rust               1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
-Python             51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+C                  2 hrs 56 mins   ███████▒░░░░░░░░░░░░░░░░░   29.77 %
+conf               1 hr 17 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
+sh                 1 hr 10 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
+Lua                1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
+Rust               1 hr 3 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
 ```
 
 <!--END_SECTION:waka-->
