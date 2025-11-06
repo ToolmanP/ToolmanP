@@ -21,13 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 October 2025 - To: 03 November 2025
+From: 29 October 2025 - To: 05 November 2025
 
-Total Time: 1 min
+Total Time: 3 hrs 37 mins
 
-fish   0 secs          ████████████████████░░░░░   79.45 %
-YAML   0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   19.18 %
-INI    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Bash       3 hrs 8 mins    █████████████████████▓░░░   86.94 %
+Docker     23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
+Assembly   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Lua        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+fish       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
