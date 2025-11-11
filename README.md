@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 November 2025 - To: 09 November 2025
+From: 03 November 2025 - To: 10 November 2025
 
-Total Time: 4 hrs 30 mins
+Total Time: 5 hrs 1 min
 
-Bash        3 hrs 54 mins   █████████████████████▓░░░   86.60 %
-Docker      25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
-C           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Assembly    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-Python      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Bash        4 hrs 25 mins   ██████████████████████░░░   88.02 %
+Docker      25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
+C           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Assembly    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Python      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
