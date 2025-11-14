@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2025 - To: 12 November 2025
+From: 06 November 2025 - To: 13 November 2025
 
-Total Time: 12 hrs 2 mins
+Total Time: 16 hrs 46 mins
 
-C             3 hrs 31 mins   ███████▒░░░░░░░░░░░░░░░░░   29.20 %
-TeX           2 hrs 46 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.06 %
-Docker        1 hr 41 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
-Bash          1 hr 30 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
-Makefile      43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+C             5 hrs 28 mins   ████████░░░░░░░░░░░░░░░░░   32.57 %
+TeX           2 hrs 46 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
+Docker        2 hrs 40 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
+Bash          1 hr 54 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
+sh            1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
 ```
 
 <!--END_SECTION:waka-->
