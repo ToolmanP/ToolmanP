@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2025 - To: 30 November 2025
+From: 24 November 2025 - To: 01 December 2025
 
-Total Time: 25 hrs 47 mins
+Total Time: 28 hrs 57 mins
 
-C                  17 hrs 55 mins  ████████████████▒░░░░░░░░   65.87 %
-sh                 4 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.98 %
-Other              1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
-Assembly           46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-conf               41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+C                  20 hrs 28 mins  █████████████████░░░░░░░░   67.59 %
+sh                 3 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+C++                1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Other              1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+Assembly           1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
 ```
 
 <!--END_SECTION:waka-->
