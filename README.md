@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2025 - To: 09 December 2025
+From: 03 December 2025 - To: 10 December 2025
 
-Total Time: 15 hrs 48 mins
+Total Time: 15 hrs 5 mins
 
-C             9 hrs 39 mins   ███████████████▒░░░░░░░░░   60.93 %
-Docker        57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-Python        53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-CMake         39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-Rust          33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+C             8 hrs 1 min     █████████████▒░░░░░░░░░░░   52.98 %
+YAML          2 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
+Rust          1 hr 52 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
+Python        53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+CMake         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
 ```
 
 <!--END_SECTION:waka-->
