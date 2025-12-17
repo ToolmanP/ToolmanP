@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 December 2025 - To: 15 December 2025
+From: 09 December 2025 - To: 16 December 2025
 
-Total Time: 14 hrs 12 mins
+Total Time: 20 hrs 56 mins
 
-C              6 hrs 51 mins   ███████████▓░░░░░░░░░░░░░   46.00 %
-YAML           1 hr 41 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
-Rust           1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
-sh             57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-Other          41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+C               12 hrs 25 mins  ██████████████▒░░░░░░░░░░   57.45 %
+Rust            1 hr 54 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+YAML            1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
+sh              1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+Bash            58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
 ```
 
 <!--END_SECTION:waka-->
