@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2025 - To: 23 December 2025
+From: 17 December 2025 - To: 24 December 2025
 
-Total Time: 18 hrs 56 mins
+Total Time: 21 hrs 4 mins
 
-C                 6 hrs 29 mins   ████████▓░░░░░░░░░░░░░░░░   34.07 %
-Bash              3 hrs 58 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.85 %
-Markdown          3 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
-JSON              1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-iss               34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+C            10 hrs 13 mins  ████████████░░░░░░░░░░░░░   47.95 %
+Markdown     3 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
+Bash         3 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
+JSON         1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+iss          34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
 ```
 
 <!--END_SECTION:waka-->
