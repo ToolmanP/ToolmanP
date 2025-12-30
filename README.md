@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2025 - To: 28 December 2025
+From: 22 December 2025 - To: 29 December 2025
 
-Total Time: 22 hrs 45 mins
+Total Time: 25 hrs 11 mins
 
-C               16 hrs 29 mins  ██████████████████░░░░░░░   71.93 %
-Bash            2 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
-Markdown        1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-iss             30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-TypeScript      14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+C               23 hrs 22 mins  ███████████████████████░░   92.32 %
+Markdown        28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Diff            21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Assembly        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+sh              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
