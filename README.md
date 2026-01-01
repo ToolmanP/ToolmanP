@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2025 - To: 30 December 2025
+From: 24 December 2025 - To: 31 December 2025
 
-Total Time: 24 hrs 37 mins
+Total Time: 20 hrs 54 mins
 
-C               22 hrs 30 mins  ██████████████████████▓░░   90.50 %
-sh              37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-Diff            33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Other           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-Objective-C     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+C               18 hrs 46 mins  ██████████████████████▒░░   89.37 %
+sh              37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Diff            33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Objective-C     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Assembly        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->
