@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2025 - To: 04 January 2026
+From: 29 December 2025 - To: 05 January 2026
 
-Total Time: 15 hrs 2 mins
+Total Time: 12 hrs 51 mins
 
-C             13 hrs 21 mins  ██████████████████████░░░   88.09 %
-sh            30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-Diff          30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-Objective-C   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-TypeScript    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+C                          9 hrs 35 mins   ██████████████████▒░░░░░░   72.81 %
+Rust                       43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+sh                         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Markdown                   27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+Caddyfile                  18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
 ```
 
 <!--END_SECTION:waka-->
