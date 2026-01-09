@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2025 - To: 07 January 2026
+From: 01 January 2026 - To: 08 January 2026
 
-Total Time: 18 hrs 3 mins
+Total Time: 22 hrs 59 mins
 
-C                          14 hrs 43 mins  ████████████████████░░░░░   80.13 %
-Rust                       43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-Caddyfile                  36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-Nginx configuration file   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-Other                      19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+C                          14 hrs 50 mins  ████████████████░░░░░░░░░   63.47 %
+Lua                        3 hrs 43 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.89 %
+Rust                       48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Caddyfile                  36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Nginx configuration file   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 ```
 
 <!--END_SECTION:waka-->
