@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 January 2026 - To: 09 January 2026
+From: 03 January 2026 - To: 10 January 2026
 
-Total Time: 26 hrs 36 mins
+Total Time: 28 hrs 47 mins
 
-C                          17 hrs 54 mins  ████████████████▓░░░░░░░░   66.32 %
-Lua                        3 hrs 43 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
-Rust                       48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-Caddyfile                  36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-fish                       30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+C                          19 hrs 52 mins  █████████████████░░░░░░░░   68.09 %
+Lua                        3 hrs 43 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
+Rust                       48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Caddyfile                  36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+fish                       30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
