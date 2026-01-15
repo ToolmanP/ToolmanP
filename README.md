@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 January 2026 - To: 13 January 2026
+From: 07 January 2026 - To: 14 January 2026
 
-Total Time: 20 hrs 55 mins
+Total Time: 23 hrs 6 mins
 
-C             13 hrs 2 mins   ███████████████▓░░░░░░░░░   62.04 %
-Lua           3 hrs 43 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
-sh            47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-C++           45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-Python        33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+C             12 hrs 50 mins  █████████████▓░░░░░░░░░░░   55.33 %
+Lua           3 hrs 43 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
+Python        1 hr 37 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+Go            54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+sh            47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
 ```
 
 <!--END_SECTION:waka-->
