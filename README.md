@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2026 - To: 14 January 2026
+From: 08 January 2026 - To: 15 January 2026
 
-Total Time: 23 hrs 6 mins
+Total Time: 21 hrs 56 mins
 
-C             12 hrs 50 mins  █████████████▓░░░░░░░░░░░   55.33 %
-Lua           3 hrs 43 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
-Python        1 hr 37 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-Go            54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-sh            47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+C             12 hrs 43 mins  ██████████████▒░░░░░░░░░░   57.92 %
+Python        4 hrs 34 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.85 %
+Go            54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+YAML          46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+sh            43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
 ```
 
 <!--END_SECTION:waka-->
