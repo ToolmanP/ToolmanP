@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2026 - To: 16 January 2026
+From: 10 January 2026 - To: 17 January 2026
 
-Total Time: 20 hrs 42 mins
+Total Time: 18 hrs 31 mins
 
-C             9 hrs 39 mins   ███████████▓░░░░░░░░░░░░░   46.62 %
-Python        4 hrs 59 mins   ██████░░░░░░░░░░░░░░░░░░░   24.06 %
-Go            59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-Rust          56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-YAML          46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+C             7 hrs 41 mins   ██████████▒░░░░░░░░░░░░░░   41.50 %
+Python        4 hrs 59 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.90 %
+Go            59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+Rust          56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+YAML          46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
 ```
 
 <!--END_SECTION:waka-->
