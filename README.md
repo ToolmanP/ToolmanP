@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 January 2026 - To: 29 January 2026
+From: 23 January 2026 - To: 30 January 2026
 
-Total Time: 7 hrs 46 mins
+Total Time: 6 hrs 19 mins
 
-Rust         3 hrs 1 min     █████████▓░░░░░░░░░░░░░░░   38.91 %
-C            1 hr 45 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.65 %
-JavaScript   52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
-TOML         47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
-Python       33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+Rust         3 hrs 1 min     ████████████░░░░░░░░░░░░░   47.88 %
+C            1 hr 45 mins    ███████░░░░░░░░░░░░░░░░░░   27.87 %
+TOML         47 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
+Markdown     22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+Lua          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
 ```
 
 <!--END_SECTION:waka-->
