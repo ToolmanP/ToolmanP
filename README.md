@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2026 - To: 12 February 2026
+From: 06 February 2026 - To: 13 February 2026
 
-Total Time: 1 hr 39 mins
+Total Time: 4 hrs 23 mins
 
-Markdown     28 mins         ███████▒░░░░░░░░░░░░░░░░░   28.84 %
-C            22 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.09 %
-Docker       13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
-JavaScript   12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
-fish         10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
+C            3 hrs 26 mins   ███████████████████▓░░░░░   78.29 %
+Markdown     28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
+fish         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+JavaScript   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+sh           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
