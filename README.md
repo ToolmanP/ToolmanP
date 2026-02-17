@@ -21,14 +21,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 February 2026 - To: 15 February 2026
+From: 09 February 2026 - To: 16 February 2026
 
-Total Time: 7 hrs 32 mins
+Total Time: 8 hrs 27 mins
 
-C             6 hrs 47 mins   ██████████████████████▒░░   89.94 %
-Markdown      28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-fish          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-sh            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+C             8 hrs 10 mins   ████████████████████████░   96.65 %
+fish          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+sh            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 INI           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
