@@ -21,15 +21,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 February 2026 - To: 18 February 2026
+From: 12 February 2026 - To: 19 February 2026
 
-Total Time: 8 hrs 27 mins
+Total Time: 10 hrs 52 mins
 
-C             8 hrs 10 mins         ████████████████████████░   96.65 %
-fish          13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-sh            2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Objective-C   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-INI           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+C             10 hrs 48 mins        █████████████████████████   99.39 %
+fish          3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Objective-C   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+INI           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
