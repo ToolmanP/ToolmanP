@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2026 - To: 28 February 2026
+From: 22 February 2026 - To: 01 March 2026
 
-Total Time: 23 hrs 55 mins
+Total Time: 19 hrs 34 mins
 
-C               16 hrs 50 mins        █████████████████▓░░░░░░░   70.38 %
-Rust            6 hrs                 ██████▒░░░░░░░░░░░░░░░░░░   25.14 %
-TOML            32 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-fish            16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-gitrebase       9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+C               12 hrs 30 mins        ████████████████░░░░░░░░░   63.86 %
+Rust            6 hrs                 ███████▓░░░░░░░░░░░░░░░░░   30.73 %
+TOML            32 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+fish            16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+gitrebase       8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
