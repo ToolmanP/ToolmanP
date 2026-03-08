@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 February 2026 - To: 06 March 2026
+From: 28 February 2026 - To: 07 March 2026
 
-Total Time: 28 hrs 1 min
+Total Time: 30 hrs 34 mins
 
-C             25 hrs                ██████████████████████▒░░   89.14 %
-Rust          53 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-gitrebase     48 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-sh            22 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-JavaScript    18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+C             23 hrs 52 mins        ███████████████████▒░░░░░   77.40 %
+hyprlang      1 hr 53 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+fish          50 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+gitrebase     48 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Lua           33 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
 <!--END_SECTION:waka-->
