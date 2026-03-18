@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2026 - To: 16 March 2026
+From: 10 March 2026 - To: 17 March 2026
 
-Total Time: 24 hrs 13 mins
+Total Time: 23 hrs 34 mins
 
-C             22 hrs 58 mins        ███████████████████████▒░   92.75 %
-Other         33 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-gitrebase     23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-sh            19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-hyprlang      13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+C             20 hrs 52 mins        █████████████████████▓░░░   86.42 %
+Other         33 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Makefile      33 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+sh            27 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+gitrebase     21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
