@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2026 - To: 26 March 2026
+From: 20 March 2026 - To: 27 March 2026
 
-Total Time: 12 hrs 52 mins
+Total Time: 12 hrs 24 mins
 
-C            5 hrs 46 mins         ██████████▓░░░░░░░░░░░░░░   42.86 %
-TeX          2 hrs 27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.24 %
-Makefile     1 hr 58 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
-sh           1 hr 29 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
-Other        35 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+C            5 hrs 44 mins         ███████████░░░░░░░░░░░░░░   44.14 %
+TeX          2 hrs 27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.89 %
+sh           1 hr 34 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
+Makefile     1 hr 30 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+Other        35 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
 ```
 
 <!--END_SECTION:waka-->
