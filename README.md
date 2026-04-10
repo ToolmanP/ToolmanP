@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 April 2026 - To: 08 April 2026
+From: 02 April 2026 - To: 09 April 2026
 
-Total Time: 25 hrs 35 mins
+Total Time: 26 hrs 49 mins
 
-C             22 hrs 50 mins        ████████████████████▓░░░░   82.35 %
-Other         2 hrs 8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-sh            1 hr 36 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-Docker        23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-conf          18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+C             23 hrs 34 mins        ████████████████████▓░░░░   82.62 %
+sh            1 hr 58 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
+Other         1 hr 43 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+Docker        34 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+conf          18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
