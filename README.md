@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2026 - To: 20 April 2026
+From: 14 April 2026 - To: 21 April 2026
 
-Total Time: 1 hr 50 mins
+Total Time: 1 hr 6 mins
 
-C          39 mins               ████████░░░░░░░░░░░░░░░░░   32.49 %
-Docker     34 mins               ███████▒░░░░░░░░░░░░░░░░░   28.89 %
-Makefile   13 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
-Other      10 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-Python     6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+C          35 mins               █████████████░░░░░░░░░░░░   52.55 %
+Docker     14 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.05 %
+Python     6 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
+TeX        4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+Bash       2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
 ```
 
 <!--END_SECTION:waka-->
