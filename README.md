@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 April 2026 - To: 22 April 2026
+From: 16 April 2026 - To: 23 April 2026
 
-Total Time: 26 mins
+Total Time: 2 hrs 30 mins
 
-Python       6 mins                ██████░░░░░░░░░░░░░░░░░░░   24.43 %
-TypeScript   5 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.85 %
-TeX          4 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.36 %
-sh           4 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
-fish         3 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
+Go           1 hr 10 mins          ███████████░░░░░░░░░░░░░░   44.57 %
+TypeScript   21 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
+Bash         14 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
+C++          13 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+TSConfig     10 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
 ```
 
 <!--END_SECTION:waka-->
