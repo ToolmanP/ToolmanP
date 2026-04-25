@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 April 2026 - To: 23 April 2026
+From: 17 April 2026 - To: 24 April 2026
 
-Total Time: 2 hrs 30 mins
+Total Time: 3 hrs 33 mins
 
-Go           1 hr 10 mins          ███████████░░░░░░░░░░░░░░   44.57 %
-TypeScript   21 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
-Bash         14 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
-C++          13 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
-TSConfig     10 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+Go           1 hr 10 mins          ███████▒░░░░░░░░░░░░░░░░░   29.43 %
+Rust         38 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
+Other        26 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
+TypeScript   21 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+TSConfig     19 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
 ```
 
 <!--END_SECTION:waka-->
