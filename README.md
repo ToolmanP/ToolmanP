@@ -21,15 +21,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2026 - To: 30 April 2026
+From: 24 April 2026 - To: 01 May 2026
 
-Total Time: 2 hrs 45 mins
+Total Time: 1 hr 51 mins
 
-Rust        1 hr 37 mins          █████████████▒░░░░░░░░░░░   52.98 %
-TOML        23 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
-sshconfig   20 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
-Other       18 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
-Markdown    13 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+Rust        57 mins               █████████████░░░░░░░░░░░░   51.66 %
+sshconfig   30 mins               ███████░░░░░░░░░░░░░░░░░░   27.47 %
+TOML        23 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.88 %
 ```
 
 <!--END_SECTION:waka-->
