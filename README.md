@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2026 - To: 11 June 2026
+From: 05 June 2026 - To: 12 June 2026
 
-Total Time: 8 hrs 9 mins
+Total Time: 10 hrs 47 mins
 
-C           4 hrs 16 mins         █████████████░░░░░░░░░░░░   51.95 %
-fish        1 hr 3 mins           ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
-Markdown    1 hr                  ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
-Python      49 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-conf        22 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+C            4 hrs 29 mins         ██████████▒░░░░░░░░░░░░░░   40.97 %
+Rust         1 hr 27 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
+Markdown     1 hr 5 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
+fish         1 hr 3 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
+Python       52 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
 ```
 
 <!--END_SECTION:waka-->
