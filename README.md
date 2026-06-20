@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 June 2026 - To: 18 June 2026
+From: 12 June 2026 - To: 19 June 2026
 
-Total Time: 8 hrs 6 mins
+Total Time: 7 hrs 1 min
 
-Rust         2 hrs 59 mins         █████████░░░░░░░░░░░░░░░░   35.37 %
-Python       2 hrs 36 mins         ███████▓░░░░░░░░░░░░░░░░░   30.81 %
-Docker       42 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
-C            40 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-C++          24 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+Python     2 hrs 36 mins         █████████░░░░░░░░░░░░░░░░   35.74 %
+Rust       2 hrs 27 mins         ████████▒░░░░░░░░░░░░░░░░   33.82 %
+Docker     42 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
+C          40 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+Other      15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
 ```
 
 <!--END_SECTION:waka-->
