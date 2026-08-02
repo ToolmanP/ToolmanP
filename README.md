@@ -21,12 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2026 - To: 31 July 2026
+From: 25 July 2026 - To: 01 August 2026
 
-Total Time: 33 mins
+Total Time: 3 hrs 30 mins
 
-Bash     25 mins               ███████████████████▒░░░░░   77.56 %
-Docker   7 mins                █████▓░░░░░░░░░░░░░░░░░░░   22.44 %
+Mermaid          2 hrs                 ████████████▓░░░░░░░░░░░░   51.08 %
+Markdown         40 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
+Python           27 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
+Other            24 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
+JSON             8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
 ```
 
 <!--END_SECTION:waka-->
