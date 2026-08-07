@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2026 - To: 05 August 2026
+From: 30 July 2026 - To: 06 August 2026
 
-Total Time: 5 hrs 27 mins
+Total Time: 4 hrs 11 mins
 
-TeX           3 hrs 39 mins         ████████████████░░░░░░░░░   63.85 %
-Mermaid       56 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
-Markdown      26 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-C             18 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-Other         16 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+TeX           3 hrs 39 mins         ████████████████████▒░░░░   81.92 %
+C             18 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+Other         16 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+Makefile      5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Markdown      4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
