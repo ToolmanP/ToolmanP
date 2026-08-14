@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2026 - To: 12 August 2026
+From: 06 August 2026 - To: 13 August 2026
 
-Total Time: 6 hrs 25 mins
+Total Time: 6 hrs 19 mins
 
-TeX          2 hrs 2 mins          ███████░░░░░░░░░░░░░░░░░░   28.53 %
-C            1 hr 55 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.92 %
-Python       1 hr 37 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.64 %
-Other        43 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-Text         39 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+C            1 hr 55 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.30 %
+TeX          1 hr 38 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.23 %
+Python       1 hr 37 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.96 %
+Other        43 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
+Text         34 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
 ```
 
 <!--END_SECTION:waka-->
