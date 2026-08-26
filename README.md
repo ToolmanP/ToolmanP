@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2026 - To: 24 August 2026
+From: 18 August 2026 - To: 25 August 2026
 
-Total Time: 9 hrs 26 mins
+Total Time: 9 hrs 53 mins
 
-Rust         5 hrs 22 mins         ██████████████░░░░░░░░░░░   55.59 %
-Python       2 hrs 18 mins         ██████░░░░░░░░░░░░░░░░░░░   23.88 %
-TeX          41 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-TOML         34 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
-TypeScript   13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Rust         5 hrs 22 mins         ████████████▓░░░░░░░░░░░░   51.22 %
+Python       2 hrs 20 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.32 %
+TeX          40 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+Other        36 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+TOML         34 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
 ```
 
 <!--END_SECTION:waka-->
