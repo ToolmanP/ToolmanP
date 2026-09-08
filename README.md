@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2026 - To: 06 September 2026
+From: 31 August 2026 - To: 07 September 2026
 
-Total Time: 1 hr 35 mins
+Total Time: 1 hr 18 mins
 
-Other      3 hrs 22 mins         █████████████████░░░░░░░░   67.95 %
-Rust       31 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
-C          29 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
-Markdown   23 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-XML        6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Other       3 hrs 10 mins         █████████████████▓░░░░░░░   70.79 %
+C           29 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
+Markdown    23 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+Rust        10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+XML         6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
 <!--END_SECTION:waka-->
