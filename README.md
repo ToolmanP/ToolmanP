@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2026 - To: 09 September 2026
+From: 03 September 2026 - To: 10 September 2026
 
-Total Time: 1 hr 18 mins
+Total Time: 1 hr 26 mins
 
-Other       3 hrs 10 mins         █████████████████▓░░░░░░░   70.78 %
-C           29 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
-Markdown    23 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-Rust        10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-XML         6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Other       2 hrs 41 mins         ████████████████▒░░░░░░░░   65.11 %
+C           29 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+Markdown    23 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+sshconfig   14 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+Rust        10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
 ```
 
 <!--END_SECTION:waka-->
