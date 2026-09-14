@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2026 - To: 12 September 2026
+From: 06 September 2026 - To: 13 September 2026
 
-Total Time: 25 mins
+Total Time: 40 mins
 
-Other          1 hr 49 mins          ████████████████████▒░░░░   80.96 %
-sshconfig      14 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
-BibTeX         8 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-TeX            2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-OpenEdge ABL   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Other          2 hrs 11 mins         ███████████████████░░░░░░   76.56 %
+sshconfig      14 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+YAML           13 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
+BibTeX         8 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+TeX            2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 ```
 
 <!--END_SECTION:waka-->
