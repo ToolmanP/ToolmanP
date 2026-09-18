@@ -21,15 +21,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2026 - To: 16 September 2026
+From: 10 September 2026 - To: 17 September 2026
 
-Total Time: 56 mins
+Total Time: 37 mins
 
-Other        39 mins               ██████████▒░░░░░░░░░░░░░░   41.37 %
-sshconfig    30 mins               ████████░░░░░░░░░░░░░░░░░   31.48 %
-YAML         17 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
-BibTeX       8 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
-Public Key   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Other        21 mins               █████████░░░░░░░░░░░░░░░░   36.42 %
+sshconfig    19 mins               ████████▒░░░░░░░░░░░░░░░░   33.27 %
+YAML         17 mins               ███████▒░░░░░░░░░░░░░░░░░   29.12 %
+Public Key   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->
