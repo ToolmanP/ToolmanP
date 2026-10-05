@@ -21,13 +21,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 September 2026 - To: 03 October 2026
+From: 27 September 2026 - To: 04 October 2026
 
-Total Time: 3 hrs 22 mins
+Total Time: 1 hr 20 mins
 
-TeX        2 hrs 59 mins         ██████████████████████▒░░   88.67 %
-C          22 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
-Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+TeX        57 mins               ██████████████████░░░░░░░   71.51 %
+C          22 mins               ███████░░░░░░░░░░░░░░░░░░   27.42 %
+Markdown   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
